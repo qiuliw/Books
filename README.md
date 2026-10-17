@@ -2,7 +2,9 @@
 
 ## 网站预览
 
-lib.zaofan.org
+https://lib.zaofan.org/
+
+<img width="2444" height="1321" alt="image" src="https://github.com/user-attachments/assets/41579ed9-24a0-4bc8-a5cf-44cf4eab34e3" />
 
 ## OPDS
 
