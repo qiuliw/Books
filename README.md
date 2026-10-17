@@ -4,6 +4,10 @@
 
 lib.zaofan.org
 
+## OPDS
+
+https://lib.zaofan.org/opds
+
 ## 其他集合
 
 通过网盘分享的文件：Books
