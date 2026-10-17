@@ -1,4 +1,4 @@
-<img width="2439" height="1341" alt="image" src="https://github.com/user-attachments/assets/2455c67d-d1a1-4011-9aca-a5d6792d0667" /># Books
+# Books
 
 ## 网站预览
 
