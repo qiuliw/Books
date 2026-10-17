@@ -6,6 +6,8 @@ lib.zaofan.org
 
 ## OPDS
 
+静读天下-网上书库
+
 https://lib.zaofan.org/opds
 
 ## 其他集合
